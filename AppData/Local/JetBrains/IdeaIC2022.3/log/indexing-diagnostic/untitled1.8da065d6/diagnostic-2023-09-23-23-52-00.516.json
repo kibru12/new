@@ -1,0 +1,200 @@
+{
+  "appInfo" : {
+    "build" : "223.7571.182",
+    "buildDate" : "2022-11-29T15:36:41.759Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2023-09-23T20:52:00.5522768Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1044381696,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "untitled1",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 7556020600,
+      "indexingTime" : 647568400,
+      "contentLoadingVisibleTime" : 5800503,
+      "creatingIteratorsTime" : 31083300,
+      "scanFilesTime" : 6751752100,
+      "pushPropertiesTime" : 9746400,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 36437120,
+      "updatingStart" : "2023-09-23T20:51:52.9327394Z",
+      "updatingEnd" : "2023-09-23T20:52:00.4880062Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 6,
+      "numberOfScannedFiles" : 41845,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 1,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 464841100,
+        "total" : 464841100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5692600,
+        "total" : 5692600
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 344,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 344,
+        "totalTime" : 464841100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'untitled1' (untitled1)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 344,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 464841100,
+          "total" : 464841100
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 283225100,
+        "total" : 325856400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 344,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 344,
+        "totalTime" : 283225100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 42631300,
+        "total" : 325856400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 344,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 344,
+        "totalTime" : 42631300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 19 C:/Program Files/Java/jdk-19/lib/src.zip!/java.se, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jdi, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jfr, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.net, C:/Program Files/Java/jdk-19/lib/src.zip!/java.rmi, C:/Program Files/Java/jdk-19/lib/src.zip!/java.sql, C:/Program Files/Java/jdk-19/lib/src.zip!/java.xml, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jcmd, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.sctp, C:/Program Files/Java/jdk-19/lib/src.zip!/java.base, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jdeps, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jlink, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.zipfs, C:/Program Files/Java/jdk-19/lib/src.zip!/java.prefs, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.attach, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jshell, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jstatd, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.random, C:/Program Files/Java/jdk-19/lib/src.zip!/java.naming, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.editpad, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jartool, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.javadoc, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.xml.dom, C:/Program Files/Java/jdk-19/lib/src.zip!/java.desktop, C:/Program Files/Java/jdk-19/lib/src.zip!/java.logging, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.charsets, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.compiler, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.dynalink, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jconsole, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jpackage, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jsobject, C:/Program Files/Java/jdk-19/lib/src.zip!/java.compiler, C:/Program Files/Java/jdk-19/lib/src.zip!/java.net.http, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.crypto.ec, C:/Program Files/Java/jdk-19/lib/src.zip!/java.scripting, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.httpserver, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.jdwp.agent, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.localedata, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.management, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.naming.dns, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.naming.rmi, C:/Program Files/Java/jdk-19/lib/src.zip!/java.instrument, C:/Program Files/Java/jdk-19/lib/src.zip!/java.management, C:/Program Files/Java/jdk-19/lib/src.zip!/java.sql.rowset, C:/Program Files/Java/jdk-19/lib/src.zip!/java.xml.crypto, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.internal.ed, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.internal.le, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.nio.mapmode, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.unsupported, C:/Program Files/Java/jdk-19/lib/src.zip!/java.smartcardio, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.internal.opt, C:/Program Files/Java/jdk-19/lib/src.zip!/java.datatransfer, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.accessibility, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.crypto.mscapi, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.hotspot.agent, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.security.auth, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.security.jgss, C:/Program Files/Java/jdk-19/lib/src.zip!/java.security.jgss, C:/Program Files/Java/jdk-19/lib/src.zip!/java.security.sasl, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.internal.vm.ci, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.management.jfr, C:/Program Files/Java/jdk-19/lib/src.zip!/java.management.rmi, C:/Program Files/Java/jdk-19/lib/src.zip!/java.transaction.xa, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.crypto.cryptoki, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.incubator.vector, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.internal.jvmstat, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.management.agent, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.unsupported.desktop, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.incubator.concurrent, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.internal.vm.compiler, C:/Program Files/Java/jdk-19/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Program Files/Java/jdk-19!/java.base, C:/Program Files/Java/jdk-19!/java.compiler, C:/Program Files/Java/jdk-19!/java.datatransfer, C:/Program Files/Java/jdk-19!/java.desktop, C:/Program Files/Java/jdk-19!/java.instrument, C:/Program Files/Java/jdk-19!/java.logging, C:/Program Files/Java/jdk-19!/java.management, C:/Program Files/Java/jdk-19!/java.management.rmi, C:/Program Files/Java/jdk-19!/java.naming, C:/Program Files/Java/jdk-19!/java.net.http, C:/Program Files/Java/jdk-19!/java.prefs, C:/Program Files/Java/jdk-19!/java.rmi, C:/Program Files/Java/jdk-19!/java.scripting, C:/Program Files/Java/jdk-19!/java.se, C:/Program Files/Java/jdk-19!/java.security.jgss, C:/Program Files/Java/jdk-19!/java.security.sasl, C:/Program Files/Java/jdk-19!/java.smartcardio, C:/Program Files/Java/jdk-19!/java.sql, C:/Program Files/Java/jdk-19!/java.sql.rowset, C:/Program Files/Java/jdk-19!/java.transaction.xa, C:/Program Files/Java/jdk-19!/java.xml, C:/Program Files/Java/jdk-19!/java.xml.crypto, C:/Program Files/Java/jdk-19!/jdk.accessibility, C:/Program Files/Java/jdk-19!/jdk.attach, C:/Program Files/Java/jdk-19!/jdk.charsets, C:/Program Files/Java/jdk-19!/jdk.compiler, C:/Program Files/Java/jdk-19!/jdk.crypto.cryptoki, C:/Program Files/Java/jdk-19!/jdk.crypto.ec, C:/Program Files/Java/jdk-19!/jdk.crypto.mscapi, C:/Program Files/Java/jdk-19!/jdk.dynalink, C:/Program Files/Java/jdk-19!/jdk.editpad, C:/Program Files/Java/jdk-19!/jdk.hotspot.agent, C:/Program Files/Java/jdk-19!/jdk.httpserver, C:/Program Files/Java/jdk-19!/jdk.incubator.concurrent, C:/Program Files/Java/jdk-19!/jdk.incubator.vector, C:/Program Files/Java/jdk-19!/jdk.internal.ed, C:/Program Files/Java/jdk-19!/jdk.internal.jvmstat, C:/Program Files/Java/jdk-19!/jdk.internal.le, C:/Program Files/Java/jdk-19!/jdk.internal.opt, C:/Program Files/Java/jdk-19!/jdk.internal.vm.ci, C:/Program Files/Java/jdk-19!/jdk.internal.vm.compiler, C:/Program Files/Java/jdk-19!/jdk.internal.vm.compiler.management, C:/Program Files/Java/jdk-19!/jdk.jartool, C:/Program Files/Java/jdk-19!/jdk.javadoc, C:/Program Files/Java/jdk-19!/jdk.jcmd, C:/Program Files/Java/jdk-19!/jdk.jconsole, C:/Program Files/Java/jdk-19!/jdk.jdeps, C:/Program Files/Java/jdk-19!/jdk.jdi, C:/Program Files/Java/jdk-19!/jdk.jdwp.agent, C:/Program Files/Java/jdk-19!/jdk.jfr, C:/Program Files/Java/jdk-19!/jdk.jlink, C:/Program Files/Java/jdk-19!/jdk.jpackage, C:/Program Files/Java/jdk-19!/jdk.jshell, C:/Program Files/Java/jdk-19!/jdk.jsobject, C:/Program Files/Java/jdk-19!/jdk.jstatd, C:/Program Files/Java/jdk-19!/jdk.localedata, C:/Program Files/Java/jdk-19!/jdk.management, C:/Program Files/Java/jdk-19!/jdk.management.agent, C:/Program Files/Java/jdk-19!/jdk.management.jfr, C:/Program Files/Java/jdk-19!/jdk.naming.dns, C:/Program Files/Java/jdk-19!/jdk.naming.rmi, C:/Program Files/Java/jdk-19!/jdk.net, C:/Program Files/Java/jdk-19!/jdk.nio.mapmode, C:/Program Files/Java/jdk-19!/jdk.random, C:/Program Files/Java/jdk-19!/jdk.sctp, C:/Program Files/Java/jdk-19!/jdk.security.auth, C:/Program Files/Java/jdk-19!/jdk.security.jgss, C:/Program Files/Java/jdk-19!/jdk.unsupported, C:/Program Files/Java/jdk-19!/jdk.unsupported.desktop, C:/Program Files/Java/jdk-19!/jdk.xml.dom, C:/Program Files/Java/jdk-19!/jdk.zipfs",
+      "numberOfScannedFiles" : 41619,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 5269203500,
+      "scanningTime" : 5459960500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 47779000,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@35d2ce5d' (non-project)",
+      "numberOfScannedFiles" : 225,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 333072000,
+      "scanningTime" : 351292600,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 487600,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'untitled1' (untitled1)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 16327200,
+      "scanningTime" : 33806300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 8000,
+      "timeIndexingWithoutContent" : 27800,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@35d2ce5d' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'untitled1' (untitled1)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 473652200,
+      "contentLoadingVisibleTime" : 5800503,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 36437120
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 1.0189550794884532
+  }
+}
